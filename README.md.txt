@@ -1,0 +1,1 @@
+# Técnicas Clássicas de Reconhecimento de Padrões - UFMG 2020/01
